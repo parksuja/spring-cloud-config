@@ -1,8 +1,1 @@
-spring.profiles: dev
-taeng:
-  profile: I'm dev taeng
-  comment: Hello! dev taeng
-spring.profiles: dev
-taeng:
-  profile: I'm dev taeng
-  comment: Hello! dev taeng
+
